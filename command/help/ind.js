@@ -11,7 +11,7 @@ exports.noregis = (pushname) =>{
 	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 😒`
+	return` Lu udah daftar 🗿`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -53,12 +53,12 @@ exports.welcome = () =>{
 ⌯ָ   ֙Umur :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
+╰─ ᝬ _Patuhi Rules Group Ya_`
       }
 exports.leave = () =>{
 	return`
 │
-╰─ ᝬ _Balik Lagi Wajib Donasi Ya_ >_<`
+╰─ ᝬ _Balik Lagi Wajib Donasi Ya_`
 }
 exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
@@ -66,7 +66,6 @@ exports.menu = (prefix, salam, pushname) =>{
 ╭─⬣ *List Menu*
 │ • ${prefix}menu
 │ • ${prefix}help
-│ • ${prefix}haruka
 │
 ├ *Download*
 │ • ${prefix}play [query]
@@ -88,7 +87,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │
 ├ *Convert*
 │ • ${prefix}stiker [video/image]
-│ • ${prefix}semoji 😎
+│ • ${prefix}semoji 🐦
 │ • ${prefix}smeme [text]
 │ • ${prefix}memegen [text|text2]
 │ • ${prefix}fast [video/vn]
@@ -113,7 +112,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}alquranaudio
 │ • ${prefix}jadwalsholat
 │
-├ *For wibu*
+├ *For AnimekLovers*
 │ • ${prefix}nami 
 │ • ${prefix}copper 
 │ • ${prefix}naruto  
